@@ -9,4 +9,4 @@
 
 <h2 align = "center">Desain Program</h2>
 <h4 align = "center">Program ini dibuat dengan alur sebagai berikut</h4>
-<div align="center"><img src="https://raw.githubusercontent.com/devtadanarsa/Program-Tagihan-Air/main/Penjelasan%20Program/Alur%20Program.png" width="400"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/devtadanarsa/Program-Tagihan-Air/main/Penjelasan%20Program/Alur%20Program.png" width="700"></div>
