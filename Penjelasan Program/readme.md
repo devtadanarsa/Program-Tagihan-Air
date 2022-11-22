@@ -8,5 +8,5 @@
 <h4><a href = "http://tirtalingga.co.id/biaya-pemeliharaan-dan-denda](https://tirtamangutama.badungkab.go.id/syarat-dan-ketetntuan-pelanggan">Sumber III</a><h4><br>
 
 <h2 align = "center">Desain Program</h2>
-<h4>Program ini dibuat dengan alur sebagai berikut</h4>
-<div align="center"><img src="https://raw.githubusercontent.com/devtadanarsa/Program-Tagihan-Air/main/Penjelasan%20Program/desain.png"></div>
+<h4 align = "center">Program ini dibuat dengan alur sebagai berikut</h4>
+<div align="center"><img src="https://raw.githubusercontent.com/devtadanarsa/Program-Tagihan-Air/main/Penjelasan%20Program/Alur%20Program.png"></div>
