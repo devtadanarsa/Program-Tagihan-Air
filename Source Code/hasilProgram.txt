@@ -1,0 +1,30 @@
+Nama : Made Yurino Kuja
+Alamat : Jln Soka Guri No. 29X
+Kelompok Pelanggan : D1 - 2
+Golongan : Rumah Tangga
+Tanggal Bayar : 13/11/2022
+Denda : Rp 0
+Total Bayar : Rp 407400
+
+Nama : Belo Yuherona
+Alamat : Jln. By Pass Ngurah Rai No.77
+Kelompok Pelanggan : E2 - 1
+Golongan : Usaha
+Tanggal Bayar : 13/11/2022
+Denda : Rp 0
+Total Bayar : Rp 1215000
+Nama : Wayan Junger
+Alamat : Jln. Tain Siat
+Kelompok Pelanggan : D4 - 2
+Golongan : Rumah Tangga
+Tanggal Bayar : 13/11/2022
+Denda : Rp 0
+Total Bayar : Rp 163800
+
+Nama : Kopral Erin
+Alamat : Jln Sudirman
+Kelompok Pelanggan : D2 - 3
+Golongan : Rumah Tangga
+Tanggal Bayar : 13/11/2022
+Denda : Rp 0
+Total Bayar : Rp 114000
